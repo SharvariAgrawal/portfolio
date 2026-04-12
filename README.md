@@ -1,6 +1,6 @@
  # Sharvari Agrawal — Portfolio
 - Personal portfolio website built with HTML, CSS, and JavaScript.
-- 🌐 Live Site: sharvariagrawal.github.io/portofolio
+- 🌐 Live Site: sharvariagrawal.github.io/portfolio
 
 ## Sections
 
